@@ -19,7 +19,7 @@ void print_to_98(int n)
 			if (i != 98)
 				printf(", ");
 		}
-		printf("\n\n");
+		printf("\n");
 	}
 	else if (n < 0)
 	{
@@ -29,7 +29,7 @@ void print_to_98(int n)
 			if (i != 98)
 				printf(", ");
 		}
-		printf("\n\n");
+		printf("\n");
 	}
 	else if (n > 98)
 	{
@@ -39,8 +39,8 @@ void print_to_98(int n)
 			if (i != 98)
 				printf(", ");
 		}
-		printf("\n\n");
+		printf("\n");
 	}
 	else if (n == 98)
-		printf("%d\n\n", n);
+		printf("%d\n", n);
 }
