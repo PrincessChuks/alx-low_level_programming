@@ -1,1 +1,1 @@
-This is my first programming repo
+this project contains more tasks on functions and loops
